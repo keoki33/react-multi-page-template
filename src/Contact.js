@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Footer from "./Footer";
 
 class Contact extends Component {
   state = {};
@@ -9,6 +10,7 @@ class Contact extends Component {
     return (
       <div className="contact">
         <h1>Contact</h1>
+        <Footer />
       </div>
     );
   }
