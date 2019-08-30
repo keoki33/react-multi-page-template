@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: rgb(26, 26, 26);
+}
+
+.main {
+  display: grid;
+  grid-template-rows: 150px 1fr;
+  border: 1px solid black;
+}
+
+/* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */
+/* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */
+/* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */ /* NAVBAR */
+
+nav {
+  display: grid;
+  border: 1px solid black;
+  width: 1fr;
+  height: 1fr;
+}
+
+/* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */
+/* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */
+/* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */ /* HOME */
+
+.home {
+  border: 1px solid black;
+}
+
+/* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */
+/* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */
+/* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */
+
+.footer {
+  border: 1px solid black;
+  height: 100px;
+}
+
+/* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */
+/* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */
+/* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */ /* ANIMATION */
